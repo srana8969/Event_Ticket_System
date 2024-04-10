@@ -17,6 +17,6 @@ A platform for selling tickets to events with seat selection and QR code generat
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/event-ticketing-system.git
+1. Clone the repository: git clone https://github.com/srana8969/event-ticketing-system.git
 2.   Navigate to the project directory:
 3. Install Dependecies.       
